@@ -1,0 +1,232 @@
+newmtl galv
+Kd 0.7255 0.7490 0.7725
+Ka 0 0 0
+Ks 0.525 0.525 0.525
+Ns 130
+d 1
+illum 2
+
+newmtl yellow
+Kd 0.9490 0.7216 0.0000
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 120
+d 1
+illum 2
+
+newmtl abs
+Kd 0.9255 0.9333 0.9333
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 99
+d 1
+illum 2
+
+newmtl lid
+Kd 0.9686 0.9725 0.9725
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl orange
+Kd 0.9373 0.4902 0.1020
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl dark
+Kd 0.1647 0.1765 0.1922
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 90
+d 1
+illum 2
+
+newmtl black
+Kd 0.1059 0.1098 0.1176
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl rubber
+Kd 0.0824 0.0824 0.0824
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 49
+d 1
+illum 2
+
+newmtl steel
+Kd 0.8275 0.8431 0.8588
+Ka 0 0 0
+Ks 0.625 0.625 0.625
+Ns 150
+d 1
+illum 2
+
+newmtl alu
+Kd 0.6824 0.7059 0.7294
+Ka 0 0 0
+Ks 0.600 0.600 0.600
+Ns 140
+d 1
+illum 2
+
+newmtl cell
+Kd 0.0863 0.1412 0.2314
+Ka 0 0 0
+Ks 0.300 0.300 0.300
+Ns 180
+d 1
+illum 2
+
+newmtl busbar
+Kd 0.5569 0.6039 0.6588
+Ka 0 0 0
+Ks 0.550 0.550 0.550
+Ns 150
+d 1
+illum 2
+
+newmtl backsheet
+Kd 0.9020 0.9020 0.9020
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 70
+d 1
+illum 2
+
+newmtl white
+Kd 0.9529 0.9529 0.9412
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 90
+d 1
+illum 2
+
+newmtl pvc
+Kd 0.6039 0.6392 0.6706
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 99
+d 1
+illum 2
+
+newmtl pvccap
+Kd 0.4353 0.4706 0.5020
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 99
+d 1
+illum 2
+
+newmtl water
+Kd 0.2353 0.5529 0.8392
+Ka 0 0 0
+Ks 0.250 0.250 0.250
+Ns 190
+d 1
+illum 2
+
+newmtl peat
+Kd 0.2471 0.1843 0.1333
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 20
+d 1
+illum 2
+
+newmtl wetpeat
+Kd 0.1647 0.1216 0.0902
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 29
+d 1
+illum 2
+
+newmtl litter
+Kd 0.3686 0.3216 0.2000
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 20
+d 1
+illum 2
+
+newmtl copper
+Kd 0.7804 0.4824 0.2902
+Ka 0 0 0
+Ks 0.600 0.600 0.600
+Ns 140
+d 1
+illum 2
+
+newmtl brass
+Kd 0.7882 0.6353 0.1529
+Ka 0 0 0
+Ks 0.600 0.600 0.600
+Ns 140
+d 1
+illum 2
+
+newmtl gland
+Kd 0.3569 0.3804 0.4078
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl green
+Kd 0.1216 0.4784 0.2275
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl battery
+Kd 0.2275 0.4314 0.6471
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl pcb
+Kd 0.1137 0.3608 0.2275
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl blue
+Kd 0.1412 0.3412 0.6510
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 110
+d 1
+illum 2
+
+newmtl gy
+Kd 0.4902 0.7216 0.2275
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 90
+d 1
+illum 2
+
+newmtl qr
+Kd 0.0667 0.0667 0.0667
+Ka 0 0 0
+Ks 0.200 0.200 0.200
+Ns 90
+d 1
+illum 2
+
